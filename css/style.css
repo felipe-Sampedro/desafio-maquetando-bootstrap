@@ -7,7 +7,7 @@
     height: auto;
 }
 
-a{
+a,#pie{
     font-family: 'Shadows Into Light', cursive;
     font-size: 200%;
 }
@@ -18,11 +18,19 @@ a{
 }
 
 
+.bg-pie{
+    background-color: #ea5174;
+}
 
 
+.info-pie p{
+    margin: 0;
+    padding: 0;
+}
 
-
-
+.pie-icon{
+    width: 145%;
+}
 
 
 

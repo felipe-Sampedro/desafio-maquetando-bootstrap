@@ -1,0 +1,54 @@
+.bg-color-alt{
+    background-color: #ff80ab
+}
+
+.start-icon{
+    width: 45px;
+    height: auto;
+}
+
+a{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 200%;
+}
+
+.size-logo{
+    width:35%;
+    height:auto
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media screen (min-width:768px) {
+    .size-logo{
+        width:45%;
+        height:auto
+    }
+    .start-icon{
+        width: 85px;
+        height: auto;
+    }
+    
+}
+
+@media screen (min-width:1024px) {
+    .size-logo{
+        width:35%;
+        height:auto
+    }
+    .start-icon{
+        width: 85px;
+        height: auto;
+    }    
+
+} */

@@ -2,6 +2,11 @@
     background-color: #ff80ab
 }
 
+.bg-color-alt2{
+    background-color: #ffb2dd
+}
+
+
 .start-icon{
     width: 45px;
     height: auto;
@@ -16,6 +21,12 @@ a,#pie{
     width:35%;
     height:auto
 }
+
+
+.resaltar:hover{
+    transform: scale(1.1);
+}
+
 
 
 .bg-pie{
@@ -33,30 +44,3 @@ a,#pie{
 }
 
 
-
-
-
-
-/* @media screen (min-width:768px) {
-    .size-logo{
-        width:45%;
-        height:auto
-    }
-    .start-icon{
-        width: 85px;
-        height: auto;
-    }
-    
-}
-
-@media screen (min-width:1024px) {
-    .size-logo{
-        width:35%;
-        height:auto
-    }
-    .start-icon{
-        width: 85px;
-        height: auto;
-    }    
-
-} */
